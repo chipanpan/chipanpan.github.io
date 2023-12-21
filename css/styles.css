@@ -548,10 +548,11 @@ input[type='checkbox'] {
 }
 
 .header .area-2 {
-	height: 400px;
-	background: url('../images/header-background.jpg') center center no-repeat;
-	background-size: cover;
+	height: 300px;
+	background: url('../images/welcome.png') center center no-repeat;
+	background-size: contain;
 }
+
 
 
 /*****************/
