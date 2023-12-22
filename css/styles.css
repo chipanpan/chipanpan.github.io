@@ -501,6 +501,14 @@ input[type='checkbox'] {
 	color: #d79491;
 }
 
+path {
+	transition: fill 0.2s ease;
+}
+
+.navbar .fab:hover path {
+	fill: #d79491;
+}
+
 .navbar .navbar-toggler {
 	padding: 0;
 	border: none;
