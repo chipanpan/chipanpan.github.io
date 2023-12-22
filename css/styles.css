@@ -73,6 +73,7 @@ h4 {
 	line-height: 2rem;
 	font-family: "Poppins";
 	letter-spacing: -0.2px;	
+	text-align: center;
 }
 
 h5 {
@@ -560,7 +561,7 @@ input[type='checkbox'] {
 /*****************/
 .basic-1 {
 	padding-top: 8rem;
-	padding-bottom: 5.75rem;
+	padding-bottom: 1rem;
 }
 
 .basic-1 .h2-heading {
@@ -615,39 +616,11 @@ input[type='checkbox'] {
 }
 
 
-/**********************/
-/*     Invitation     */
-/**********************/
-.basic-3 {
-	padding-top: 8rem;
-	padding-bottom: 8.5rem;
-	background: linear-gradient(to bottom right, rgba(214, 147, 145, 0.9), rgba(214, 147, 145, 0.9)), url('../images/invitation-background.jpg') center center no-repeat;
-	background-size: cover;
-	text-align: center;
-}
-
-.basic-3 h4 {
-	margin-bottom: 1.75rem;
-	color: #ffffff;
-}
-
-.basic-3 .btn-solid-lg {
-	border-color: #ffffff;
-	background-color: #ffffff;
-	color: #d79491;
-}
-
-.basic-3 .btn-solid-lg:hover {
-	background-color: transparent;
-	color: #ffffff;
-}
-
-
 /********************/
 /*     Projects     */
 /********************/
 .cards-1 {
-	padding-top: 8rem;
+	padding-top: 3rem;
 	padding-bottom: 3rem;
 }
 
@@ -981,15 +954,6 @@ a:hover.back-to-top {
 	/* end of about */
 
 
-	/* Invitation */
-	.basic-3 h4 {
-		width: 48rem;
-		margin-right: auto;
-		margin-left: auto;
-	}
-	/* end of invitation */
-
-
 	/* Projects */
 	.cards-1 .card {
 		display: inline-block;
@@ -1071,24 +1035,16 @@ a:hover.back-to-top {
 		display: inline-block;
 		width: 330px;
 		vertical-align: top;
+		text-align: center;
 	}
 	
 	.basic-1 .skill-box:nth-of-type(3n+2) {
 		margin-right: 3.375rem;
 		margin-left: 3.375rem;
 	}
+
 	/* end of about */
 
-
-	/* Services */
-	.basic-2 .list-unstyled.first {
-		margin-right: 1.75rem;
-	}
-
-	.basic-2 .list-unstyled.second {
-		margin-left: 1.75rem;
-	}
-	/* end of services */
 
 
 	/* Projects */
