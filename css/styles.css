@@ -524,7 +524,7 @@ path {
 }
 
 .header .area-1 {
-	padding: 8rem 1rem 5rem 1rem;
+	padding: 5rem 1rem 3rem 1rem;
 }
 
 .header .text-container {
@@ -934,7 +934,7 @@ a:hover.back-to-top {
 		display: inline-block;
 		width: 50%;
 		height: 100%;
-		padding: 14.5rem 0 0 0;
+		padding: 6rem 0 0 0;
 	}
 
 	.header .text-container {
@@ -1016,7 +1016,8 @@ a:hover.back-to-top {
 	}
 
 	.header .area-1 {
-		padding-top: 19.75rem;
+		padding-top: 8rem;
+		padding-bottom: 3rem;
 	}
 
 	.header .text-container {
