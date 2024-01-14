@@ -485,6 +485,16 @@ input[type='checkbox'] {
 	color: #d79491;
 }
 
+.ext-link {
+	color: #d79491;
+	text-decoration: none;
+}
+
+.ext-link:hover {
+	color: #d79491;
+	text-decoration: none;
+}
+
 .navbar .social-icons a {
 	text-decoration: none;
 }
